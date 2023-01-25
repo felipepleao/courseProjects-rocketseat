@@ -16,7 +16,7 @@ Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
 
 <br>
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 ## 🚀 Tecnologias
 
