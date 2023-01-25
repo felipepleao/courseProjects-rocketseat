@@ -31,7 +31,7 @@
   Projetos desenvolvidos com as seguintes tecnologias:
 
   - HTML e CSS 
-  - link repositorio...
+  - [Link do repositório](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto01--stg-02)<br>
   <br>
   
   ## 🚀 Stage-03
