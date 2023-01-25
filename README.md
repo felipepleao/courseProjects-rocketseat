@@ -3,7 +3,7 @@
  <h1 align="center"> Projetos realizados no curso Explorer </h1>
 
   <p align="center">
-  Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
+  Realizar por: Felipe Leão
   </p>
 
   <p align="center">
