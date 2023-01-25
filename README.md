@@ -1,8 +1,6 @@
- ## 🚀 Stage-02  
-  ### Introdução ao HTML e CSS
+  # <img src="https://imgur.com/X4HdxWx.png"  width="50px" align="center" alt=""> &nbsp; Explorer - RocketSeat
 
-<<<<<<< HEAD
-=======
+  <h1 align="center"> Projetos realizados no curso Explorer </h1>
   <p align="center">
   Realizados por: Felipe Leão
   </p>
