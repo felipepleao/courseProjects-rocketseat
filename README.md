@@ -6,16 +6,16 @@
   </p>
 
   <p align="center">
-    <a href="#-Stage-02">Stage-02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-03">Stage-03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-04">Stage-04</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-05">Stage-05</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-06">Stage-06</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-07">Stage-07</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-08">Stage-08</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-09">Stage-09</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Stage-10">Stage-10</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
-    <a href="#-Stage-11">Stage-11</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+    <a href="#-Stage-02">Stage-02</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-03">Stage-03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-04">Stage-04</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-05">Stage-05</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-06">Stage-06</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-07">Stage-07</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-08">Stage-08</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-09">Stage-09</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-Stage-10">Stage-10</a>&nbsp;&nbsp;|&nbsp;&nbsp;    
+    <a href="#-Stage-11">Stage-11</a>&nbsp;&nbsp;|&nbsp;&nbsp;    
     <a href="#-Desafio-Final">Desafio-Final</a>&nbsp;&nbsp;&nbsp;
   </p>
 
