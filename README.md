@@ -1,6 +1,35 @@
  ## 🚀 Stage-02  
   ### Introdução ao HTML e CSS
 
+<<<<<<< HEAD
+=======
+  <p align="center">
+  Realizados por: Felipe Leão
+  </p>
+
+  <p align="center">
+    <a href="#-Stage-02">Stage-02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-03">Stage-03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-04">Stage-04</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-05">Stage-05</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-06">Stage-06</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-07">Stage-07</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-08">Stage-08</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-09">Stage-09</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-10">Stage-10</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+    <a href="#-Stage-11">Stage-11</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+    <a href="#-Desafio-Final">Desafio-Final</a>&nbsp;&nbsp;&nbsp;
+  </p>
+
+ 
+  <br>
+   
+
+
+  ## 🚀 Stage-02  
+  ### Introdução ao HTML e CSS
+
+>>>>>>> 46ba146dbc9250336ce0ff3b984cbb9e098d9050
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link dos projetos:
