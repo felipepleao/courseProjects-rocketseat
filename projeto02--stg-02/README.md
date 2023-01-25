@@ -33,4 +33,4 @@ Projeto foi desenvolvido para o curso de formação da Rocketseat Explorer stage
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://explorer-stage2-pj2.vercel.app/).
+Você pode visualizar o projeto através [DESSE LINK](https://projeto02-stg-02.vercel.app/).
