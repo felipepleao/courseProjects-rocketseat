@@ -3,7 +3,7 @@
  <h1 align="center"> Projetos realizados no curso Explorer </h1>
 
   <p align="center">
-  Felipe Leão
+  Realizados por: Felipe Leão
   </p>
 
   <p align="center">
