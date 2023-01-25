@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --font-Montserrat: 'Montserrat', sans-serif;
+  --font-DMsans: 'DM Sans', sans-serif;
+
+  --background-color: linear-gradient(287.56deg, #C2E9FB 0%, #A1C4FD 100%);
+  --background-square: #FFFFFF;
+  --button-submit-color: #7879F1;
+  --button-number-color: #DCE2E9;
+
+  --title-color: #34355B;
+  --subtitle-color: rgba(52, 53, 91, 0.8);
+  --text-color: #FFFFFF;
+}
+
+body {
+  font-size: 1.6rem;
+  background: var(--background-color);
+  font-family: var(--font-DMsans);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+main {
+  background-color: var(--background-square);
+  width: min(42.8rem, 90%);
+  border-radius: 0.6rem;
+  text-align: center;
+  padding: 4.8rem 6.4rem 6.4rem;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.4rem;
+  font-family: var(--font-Montserrat);
+
+}
+
+header p {
+  margin: 1.6rem 0 4.8rem;
+  opacity: 0.8;
+}
+
+form {
+  max-width: 12.5rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button, input {
+  font-family: var(--font-DMsans);
+  padding: 1.6rem;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: var(--button-submit-color);
+  color: var(--text-color);
+  font-weight: 700;
+  transition: background .3s;
+}
+
+button:hover {
+  background-color: #6767cf;
+}
+
+form input {
+  width: 7rem;
+  background-color: var(--button-number-color);
+  border-radius: 4px 0px 0px 4px;
+}
+
+form button {
+  border-radius: 0px 4px 4px 0px;
+}
+
+.screen2 h2 {
+  color: var(--title-color);
+  font-size: 2.4rem;
+  font-weight: 400;
+  margin-bottom: 3.3rem;
+}
+
+.screen2 button {
+  border-radius: 0.4rem;
+}

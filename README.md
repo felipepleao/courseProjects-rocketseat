@@ -1,0 +1,123 @@
+ # <img src="https://imgur.com/X4HdxWx.png"  width="50px" align="center" alt=""> &nbsp; Explorer - RocketSeat
+  
+ <h1 align="center"> Projetos realizados no curso Explorer </h1>
+
+  <p align="center">
+  Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
+  </p>
+
+  <p align="center">
+    <a href="#-Stage-02">Stage-02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-03">Stage-03</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-04">Stage-04</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-05">Stage-05</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-06">Stage-06</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-07">Stage-07</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-08">Stage-08</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-09">Stage-09</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Stage-10">Stage-10</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+    <a href="#-Stage-11">Stage-11</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+    <a href="#-Desafio-Final">Desafio-Final</a>&nbsp;&nbsp;&nbsp;
+  </p>
+
+ 
+  <br>
+   
+
+
+  ## 🚀 Stage-02  
+  > Introdução ao HTML e CSS
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - HTML e CSS 
+  - link repositorio...
+  <br>
+  
+  ## 🚀 Stage-03
+  > Avançando no HTML e CSS
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - HTML e CSS
+  - link repositorio...
+  <br>
+  
+  ## 🚀 Stage-04
+  > Introdução a JavaScript
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - JS
+  - link repositorio...
+  <br>
+  
+  ## 🚀 Stage-05
+  > Avançando no JavaScript
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - HTML, CSS e JS
+  - link repositorio...
+  <br>
+  
+  ## 🚀 Stage-06
+  > JavaScript antes do framework
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br>
+  
+  ## 🚀 Stage-07
+  > Git & Github
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br>
+  
+  ## 🚀 Stage-08
+  > Backend
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br> 
+  
+  ## 🚀 Stage-09
+  > Frontend
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br>
+  
+  ## 🚀 Stage-10
+  > API Restful
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br> 
+  
+  ## 🚀 Stage-11
+  > Teste Automatizados
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...
+  <br>
+  
+  ## 🎓 Desafio-Final
+
+  Projetos desenvolvidos com as seguintes tecnologias:
+
+  - em andamento...
+  - em andamento...

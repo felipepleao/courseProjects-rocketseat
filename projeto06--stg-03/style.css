@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+	font-size: 62.5%; /* equivale a 10px*/
+}
+
+body {
+  background-color: #ece9fd;
+  padding: 60px 23px 66px;  
+  font-family: "Epilogue", sans-serif;
+  font-weight: 400;
+  color: #090039;
+	font-size: 1.6rem;
+}
+
+h1 {
+	margin: 1.7rem 0 1.5rem;
+  font-weight: 800;
+  font-size: 4.0rem; /* equivale a 40px sendo que 10px * 4.0rem = 40px*/
+	line-height: 4.8rem;
+}
+
+main {
+	max-width: 33rem;
+	margin: 0 auto;
+}
+
+main p:first-child {
+  color: #7158ef;
+	text-transform: uppercase;
+	letter-spacing: 3px;	
+	line-height: 3.2rem;
+	
+}
+
+h1 + p {
+  color: rgba(10, 0, 57, 0.64);	
+	line-height: 3.2rem;
+}
+
+a {	
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 3.2rem;
+	color: #090039;
+}
+
+a:hover {
+	color: #110268;
+	font-weight: 800;
+}
+
+ul {
+	margin-top:7.2rem;
+	list-style: none;
+}
+
+ul li span {
+	font-weight: 800;
+	font-size: 7.2rem;
+	line-height: 8rem;
+	letter-spacing: -2px;
+}
+
+ul li {
+	font-size: 2.4rem;
+	line-height: 3.2rem;
+  font-weight: 700;
+	display: flex;
+	align-items: center;
+	gap: 3.8rem;	
+	max-width: 25.7rem;
+}
+
+ul li + li {
+	margin-top: 3.2rem;	
+}
+
+ul li:nth-child(2), ul li:nth-child(3)  {
+	gap: 2.5rem;
+}
+
+@media (min-width: 40em) {
+
+	body {
+		padding: 8rem;
+	}
+
+	main {			
+		max-width: 1020px;	
+		display: flex;
+		gap: 11.6rem;			
+	}
+
+	main > div {		
+		max-width: 484px;
+	}
+
+	ul li {
+		gap: 6.6rem;
+		max-width: 450px;
+		align-items: center;
+	}
+	
+	ul li:nth-child(2), ul li:nth-child(3)  {
+		gap: 5.4rem;
+	}
+	
+}

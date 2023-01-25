@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --background-color: rgba(18, 18, 20, 1);
+  --timer-color: rgba(255, 255, 255, 1);
+  --base-color: 194;
+  --button-color: hsla(var(--base-color), 100%, 63%, 0.13);
+  --primary-color: hsl(var(--base-color), 100%, 63%);
+
+  --font-timer: "Roboto", sans-serif;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+main {
+  display: grid;
+  height: 100vh;
+  place-content: center;
+  position: relative;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.box {
+  text-align: center;
+}
+
+.timer {
+  font-family: var(--font-timer);
+  font-size: clamp(4rem, 4rem + 10vw, 8.8rem);
+  font-weight: 700;
+  line-height: 103px;
+  color: var(--timer-color);
+  display: flex;
+  place-content: center;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.controls {
+  margin-top: 1.6rem;
+  background-color: var(--button-color);
+  border-radius: 9999px;
+  padding: 2.2rem 4rem;
+  display: flex;
+  gap: 3.2rem;
+  align-items: center;
+  justify-content: center;
+
+  width: clamp(10rem, 10rem + 30vw, 22.8rem);
+  height: clamp(8rem, 5rem + 10vw, 10.8rem);
+}
+
+.hide {
+  display: none;
+}
+
+.button {
+  display: flex;
+  place-content: center;
+  gap: 3.2rem;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.play svg path,
+.pause svg path,
+.sound-on svg path {
+  fill: var(--primary-color);
+}
+
+button svg {
+  width: clamp(3.2rem, 2rem + 10vw, 6.4rem);
+}
+
+.sound {
+  position: absolute;
+  bottom: 4rem;
+  right: 3.2rem;
+}
