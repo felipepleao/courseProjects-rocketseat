@@ -31,9 +31,9 @@
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link dos projetos:
-  - [Projeto 01](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto01--stg-02)
-  - [Projeto 02](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto02--stg-02)
-  - [Projeto 03](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto03--stg-02)
+  > [Projeto 01](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto01--stg-02),
+  > [Projeto 02](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto02--stg-02),
+  > [Projeto 03](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto03--stg-02)
   <br>
   
   ## 🚀 Stage-03
@@ -42,11 +42,11 @@
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link dos projetos:
-  - [Projeto 04](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto04--stg-03)
-  - [Projeto 05](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto05--stg-03)
-  - [Projeto 06](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto06--stg-03)
-  - [Projeto 07](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto07--stg-03)
-  - [Projeto 08](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto08--stg-03)
+  > [Projeto 04](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto04--stg-03),
+  > [Projeto 05](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto05--stg-03),
+  > [Projeto 06](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto06--stg-03),
+  > [Projeto 07](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto07--stg-03),
+  > [Projeto 08](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto08--stg-03)
   <br>
   
   ## 🚀 Stage-04
@@ -55,7 +55,7 @@
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br><br>
   > Link dos projetos:
-  - [Projeto 09](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto09--stg-04)
+  > [Projeto 09](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto09--stg-04)
   <br>
   
   ## 🚀 Stage-05
@@ -64,9 +64,9 @@
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
   > Link dos projetos:
-  - [Projeto 10](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto10--stg-05)
-  - [Projeto 11](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto11--stg-05)
-  - [Projeto 12](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto12--stg-05)
+  > [Projeto 10](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto10--stg-05),
+  > [Projeto 11](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto11--stg-05),
+  > [Projeto 12](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto12--stg-05)
   <br>
   
   ## 🚀 Stage-06
