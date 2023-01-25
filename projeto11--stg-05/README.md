@@ -1,4 +1,4 @@
- <h1 align="center"> Explorer Stage 05 | Projeto 07 - Projeto IMC </h1>
+ <h1 align="center"> Explorer Stage 05 | Projeto 11 - Projeto IMC </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
