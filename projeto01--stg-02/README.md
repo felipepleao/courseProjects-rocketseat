@@ -33,4 +33,4 @@ Projeto foi desenvolvido para o curso de formação da Rocketseat Explorer da tu
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://projeto01-stg-02.vercel.app/).
+Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto01--stg-02/).

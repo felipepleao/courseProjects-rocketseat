@@ -34,4 +34,4 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://explorer-stage5-pj6.vercel.app/).
+  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto10--stg-05/).

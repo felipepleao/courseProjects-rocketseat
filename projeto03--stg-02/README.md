@@ -26,7 +26,7 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://projeto03-stg-02.vercel.app/).
+  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto03--stg-02/).
   
   ## 🚀 Tecnologias
 

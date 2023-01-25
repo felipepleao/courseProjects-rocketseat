@@ -26,7 +26,7 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://explorer-stage3-desafio01.vercel.app/).
+  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto05--stg-03/).
   
   ## 🚀 Tecnologias
 
