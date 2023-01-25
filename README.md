@@ -29,7 +29,6 @@
   ## 🚀 Stage-02  
   ### Introdução ao HTML e CSS
 
->>>>>>> 46ba146dbc9250336ce0ff3b984cbb9e098d9050
   > Projetos desenvolvidos com as seguintes tecnologias:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
   > Link dos projetos:
