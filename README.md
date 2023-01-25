@@ -31,9 +31,9 @@
   Projetos desenvolvidos com as seguintes tecnologias:
 
   - HTML e CSS 
-  - [Projeto 01](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto01--stg-02)<br>
-  - [Projeto 02](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto02--stg-02)<br>
-  - [Projeto 03](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto03--stg-02)<br>
+  - [Projeto 01](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto01--stg-02)
+  - [Projeto 02](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto02--stg-02)
+  - [Projeto 03](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto03--stg-02)
   <br>
   
   ## 🚀 Stage-03
@@ -42,7 +42,11 @@
   Projetos desenvolvidos com as seguintes tecnologias:
 
   - HTML e CSS
-  - link repositorio...
+  - [Projeto 04](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto04--stg-03)
+  - [Projeto 05](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto05--stg-03)
+  - [Projeto 06](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto06--stg-03)
+  - [Projeto 07](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto07--stg-03)
+  - [Projeto 08](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto08--stg-03)
   <br>
   
   ## 🚀 Stage-04
