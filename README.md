@@ -55,7 +55,7 @@
   Projetos desenvolvidos com as seguintes tecnologias:
 
   - JS
-  - link repositorio...
+  - [Projeto 09](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto09--stg-04)
   <br>
   
   ## 🚀 Stage-05
@@ -64,7 +64,9 @@
   Projetos desenvolvidos com as seguintes tecnologias:
 
   - HTML, CSS e JS
-  - link repositorio...
+  - [Projeto 10](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto10--stg-05)
+  - [Projeto 11](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto11--stg-05)
+  - [Projeto 12](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto12--stg-05)
   <br>
   
   ## 🚀 Stage-06
