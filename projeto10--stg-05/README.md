@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 05 | Projeto 06 - Jogo de Adivinhação </h1>
+  <h1 align="center"> Explorer Stage 05 | Projeto 11 - Jogo de Adivinhação </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.

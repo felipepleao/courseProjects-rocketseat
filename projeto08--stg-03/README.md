@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 03 | Desafio 02 - Mobile First e Grid </h1>
+  <h1 align="center"> Explorer Stage 03 | Projeto 08 - Mobile First e Grid </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.

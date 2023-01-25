@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 03 | Projeto 05 - Transição e Animações </h1>
+  <h1 align="center"> Explorer Stage 03 | Projeto 07 - Transição e Animações </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.

@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 03 | Projeto 04 - Responsividade </h1>
+  <h1 align="center"> Explorer Stage 03 | Projeto 06 - Responsividade </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.

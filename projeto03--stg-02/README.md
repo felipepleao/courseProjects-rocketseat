@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 02 | Projeto final </h1>
+  <h1 align="center"> Explorer Stage 02 | Projeto 03 </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
