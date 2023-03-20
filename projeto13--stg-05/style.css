@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --background-color: rgba(18, 18, 20, 1);
+  --timer-color: rgba(255, 255, 255, 1);
+  --base-color: 194;
+  --button-color: hsla(var(--base-color), 100%, 63%, 0.13);
+  --primary-color: hsl(var(--base-color), 100%, 63%);
+
+  --font-timer: "Roboto", sans-serif;
+}
+
+body {
+  background-color: var(--background-color);
+}

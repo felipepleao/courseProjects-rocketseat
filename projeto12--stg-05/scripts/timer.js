@@ -1,27 +1,37 @@
+import Sound from "./sounds.js";
+
 export default function Timer({
-  minutesCounter,
-  secondsCounter,
-  timerTimeOut,
+  minutesDisplay,
+  secondsDisplay,
   resetControls,
 }) {
+  let timerTimeOut;
+  let minutes = Number(minutesDisplay.textContent);
 
-  function updateTimerDisplay(minutes, seconds) {
-    minutesCounter.textContent = String(minutes).padStart(2, "0");
-    secondsCounter.textContent = String(seconds).padStart(2, "0");
+  function updateDisplay(newMinutes, seconds) {
+    newMinutes = newMinutes === undefined ? minutes : newMinutes
+    seconds = seconds === undefined ? 0 : seconds
+    minutesDisplay.textContent = String(newMinutes).padStart(2, "0");
+    secondsDisplay.textContent = String(seconds).padStart(2, "0");
   }
 
   function reset() {
-    updateTimerDisplay(minutes, seconds);
+    updateDisplay(minutes, 0);
     clearTimeout(timerTimeOut);
   }
 
   function countdown() {
     timerTimeOut = setTimeout(function () {
-      let minutes = Number(minutesCounter.textContent);
-      let seconds = Number(secondsCounter.textContent);
+      let seconds = Number(secondsDisplay.textContent);
+      let minutes = Number(minutesDisplay.textContent);
+      let isFinished = minutes <= 0 && seconds <= 0
 
-      if (minutes <= 0 && seconds <= 0) {
+      // updateTimerDisplay(minutes, 0);
+
+      if (isFinished) {
         resetControls();
+        updateDisplay();
+        Sound().timeEnd()
         return;
       }
 
@@ -30,14 +40,25 @@ export default function Timer({
         --minutes;
       }
 
-      updateTimerDisplay(minutes, String(seconds - 1));
+      updateDisplay(minutes, String(seconds - 1));
 
       countdown();
     }, 1000);
   }
 
+  function updateMinutes(newMinutes) {
+    minutes = newMinutes;
+  }
+
+  function hold() {
+    clearTimeout(timerTimeOut);
+  }
+
   return {
     countdown,
-    reset
+    reset,
+    updateDisplay,
+    updateMinutes,
+    hold,
   };
 }

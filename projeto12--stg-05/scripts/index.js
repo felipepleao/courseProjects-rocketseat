@@ -1,62 +1,71 @@
 import Controls from "./controls.js";
 import Timer from "./timer.js";
+import { elements } from "./elements.js"
+import Sound from "./sounds.js"
 
-const buttonPlay = document.querySelector(".play");
-const buttonPause = document.querySelector(".pause");
-const buttonStop = document.querySelector(".stop");
-const buttonSet = document.querySelector(".set");
-const buttonSoundOn = document.querySelector(".sound-on");
-const buttonSoundOff = document.querySelector(".sound-off");
-const minutesCounter = document.querySelector(".minutes");
-const secondsCounter = document.querySelector(".seconds");
-let minutes = Number(minutesCounter.textContent);
-let seconds = Number(secondsCounter.textContent);
-let timerTimeOut;
+const {
+  buttonPlay,
+  buttonPause,
+  buttonStop,
+  buttonSet,
+  buttonSoundOn,
+  buttonSoundOff,
+  minutesDisplay,
+  secondsDisplay,
+} = elements
 
-const controls = Controls();
+const sound = Sound()
+
+const controls = Controls({
+  buttonPlay,
+  buttonPause,
+  buttonSet,
+  buttonStop,
+});
 
 const timer = Timer({
-  minutesCounter,
-  secondsCounter,
-  timerTimeOut,
-  resetControls,
+  minutesDisplay,
+  secondsDisplay,
+  resetControls: controls.reset,
 });
 
 buttonPlay.addEventListener("click", function () {
   controls.play();
   timer.countdown();
+  sound.pressButton()
 });
 
 buttonPause.addEventListener("click", function () {
   controls.pause();
-  clearTimeout(timerTimeOut);
+  timer.hold();
+  sound.pressButton()
 });
 
 buttonStop.addEventListener("click", function () {
   controls.reset();
   timer.reset();
+  sound.pressButton()
 });
 
 buttonSoundOn.addEventListener("click", function () {
   buttonSoundOn.classList.add("hide");
   buttonSoundOff.classList.remove("hide");
+  sound.bgAudio.pause()
 });
 
 buttonSoundOff.addEventListener("click", function () {
   buttonSoundOff.classList.add("hide");
   buttonSoundOn.classList.remove("hide");
+  sound.bgAudio.play()
 });
 
 buttonSet.addEventListener("click", function () {
-  newMinutes = prompt("Quantos minutos?");
-  newSeconds = prompt("Quantos segundos?");
-  if (!newMinutes || !newSeconds) {
-    resetTimer();
+  let newMinutes = controls.getMinutes();
+  if (!newMinutes) {
+    timer.reset();
     return;
   }
 
-  minutes = newMinutes;
-  seconds = newSeconds;
-
-  updateTimerDisplay(minutes, seconds);
+  timer.updateDisplay(newMinutes, 0);
+  timer.updateMinutes(newMinutes);
 });
