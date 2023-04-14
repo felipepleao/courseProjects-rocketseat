@@ -9,8 +9,12 @@ const {
   buttonPlay,
   buttonPause,
   buttonStop,
-  buttonAddMinutes,
   buttonRemoveMinutes,
+  buttonAddMinutes,
+  buttonForest,
+  buttonRain,
+  buttonCoffe,
+  buttonFire,
 } = elements;
 
 const sound = Sound();
@@ -36,11 +40,13 @@ function activeEvent() {
   buttonAddMinutes.addEventListener("click", timer.addMinutes);
 }
 
+//events display buttons
+
 buttonPlay.addEventListener("click", function () {
   controls.play();
   timer.countdown();
   disableEvent();
-  sound.buttonCoffeSound()
+  sound.buttonForestSound();
 });
 
 buttonPause.addEventListener("click", function () {
@@ -56,5 +62,23 @@ buttonStop.addEventListener("click", function () {
 buttonRemoveMinutes.addEventListener("click", timer.removeMinutes);
 
 buttonAddMinutes.addEventListener("click", timer.addMinutes);
+
+//events sound buttons
+
+buttonForest.addEventListener("click", () => {
+  sound.forestSound();
+});
+
+buttonRain.addEventListener("click", () => {
+  sound.rainSound();
+});
+
+buttonCoffe.addEventListener("click", () => {
+  sound.coffeSound();
+});
+
+buttonFire.addEventListener("click", () => {
+  sound.fireSound();
+});
 
 export { activeEvent };
