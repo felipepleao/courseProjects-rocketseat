@@ -7,12 +7,97 @@
 :root {
   font-size: 62.5%;
 
-  --background-color: rgba(18, 18, 20, 1);
-  --timer-color: rgba(255, 255, 255, 1);
-  --base-color: 194;
-  --button-color: hsla(var(--base-color), 100%, 63%, 0.13);
-  --primary-color: hsl(var(--base-color), 100%, 63%);
+  --background-color: #ffffff;
+  --timer-color: #323238;
+  --button-color: #e1e1e6;
+  --button-color-apply: #02799d;
+  --fill-color: #323238;
+  --fill-color-apply: #ffffff;
 
   --font-timer: "Roboto", sans-serif;
 }
 
+body {
+  background-color: var(--background-color);
+  color: var(--fill-color);
+  font-family: var(--font-timer);
+}
+
+#boxTimer {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  place-content: center;
+  padding: 2rem;
+
+  max-width: 82rem;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timerDisplay p,
+span {
+  font-size: 12.617rem;
+}
+
+.time {
+  display: flex;
+  margin-bottom: 1.7rem;
+  justify-content: center;
+}
+
+.buttonTimer {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background-color: initial;
+}
+
+.musicDisplay {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3.2rem;
+}
+
+.musicDisplay button {
+  padding: 4.8rem;
+  border-radius: 2.5rem;
+  background-color: var(--button-color);
+}
+
+.hide {
+  display: none;
+}
+
+.buttonApply,
+.buttonApply .svg-apply {
+  background-color: var(--button-color-apply);
+  fill: white;
+}
+
+@media (max-width: 800px) {
+  .container {
+    display: grid;
+    margin: 0 auto;
+    gap: 10rem 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    gap: 6rem 0;
+  }
+
+  .musicDisplay button {
+    padding: 3rem;
+  }
+}
