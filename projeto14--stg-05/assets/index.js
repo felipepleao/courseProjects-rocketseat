@@ -17,7 +17,12 @@ const {
   buttonFire,
 } = elements;
 
-const sound = Sound();
+const sound = Sound({
+  buttonForest,
+  buttonRain,
+  buttonCoffe,
+  buttonFire,
+});
 
 const controls = Controls({
   buttonPlay,
@@ -46,7 +51,6 @@ buttonPlay.addEventListener("click", function () {
   controls.play();
   timer.countdown();
   disableEvent();
-  sound.buttonForestSound();
 });
 
 buttonPause.addEventListener("click", function () {
@@ -65,7 +69,7 @@ buttonAddMinutes.addEventListener("click", timer.addMinutes);
 
 //events sound buttons
 
-buttonForest.addEventListener("click", () => {
+buttonForest.addEventListener("click", (event) => {
   sound.forestSound();
 });
 

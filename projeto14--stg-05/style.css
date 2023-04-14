@@ -68,20 +68,21 @@ button {
   gap: 3.2rem;
 }
 
-.musicDisplay button {
+
+.buttonStyle {
   padding: 4.8rem;
   border-radius: 2.5rem;
-  background-color: var(--button-color);
-}
-
-.hide {
-  display: none;
+  background: var(--button-color);
 }
 
 .buttonApply,
 .buttonApply .svg-apply {
   background-color: var(--button-color-apply);
   fill: white;
+}
+
+.hide {
+  display: none;
 }
 
 @media (max-width: 800px) {
