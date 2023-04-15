@@ -66,7 +66,7 @@
   > [Projeto 10](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto10--stg-05),
   > [Projeto 11](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto11--stg-05),
   > [Projeto 12](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto12--stg-05),
-  > [Projeto 12](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto14--stg-05)
+  > [Projeto 14](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto14--stg-05)
   <br>
   
   ## 🚀 Stage-06
