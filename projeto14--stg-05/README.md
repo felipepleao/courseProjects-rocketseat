@@ -34,4 +34,4 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://course-projects-rocketseat.vercel.app/).
+  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto14--stg-05/).
