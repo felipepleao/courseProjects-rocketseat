@@ -21,6 +21,13 @@ body {
   background-color: var(--background-color);
   color: var(--fill-color);
   font-family: var(--font-timer);
+  position: relative;
+}
+
+.lightMode {
+  position: absolute;
+  top: 6.4rem;
+  right: 6.4rem;
 }
 
 #boxTimer {
@@ -86,6 +93,11 @@ button {
 }
 
 @media (max-width: 800px) {
+  .lightMode {
+    top: 2rem;
+    right: 2rem;
+  }
+
   .container {
     display: grid;
     margin: 0 auto;
@@ -95,6 +107,7 @@ button {
 
 @media (max-width: 600px) {
   .container {
+    margin-top: 5rem;
     gap: 6rem 0;
   }
 

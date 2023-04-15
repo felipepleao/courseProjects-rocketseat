@@ -12,6 +12,11 @@ export default function ({
   let pauseRain = true
   let pauseCoffe = true
   let pauseFire = true
+
+  buttonForestSound.loop = true;
+  buttonRainSound.loop = true;
+  buttonCoffeSound.loop = true;
+  buttonFireplaceSound.loop = true;
   
   function forestSound() {
     if (pauseForest) {
