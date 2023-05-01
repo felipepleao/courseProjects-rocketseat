@@ -74,7 +74,7 @@
 
   Projetos desenvolvidos com as seguintes tecnologias:
 
-  - em andamento...
+  > [Projeto 15](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto15--stg-06),
   - em andamento...
   <br>
   
