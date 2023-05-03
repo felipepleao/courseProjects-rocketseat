@@ -70,11 +70,12 @@
   <br>
   
   ## 🚀 Stage-06
-  > JavaScript antes do framework
+  ### JavaScript antes do framework
 
-  Projetos desenvolvidos com as seguintes tecnologias:
-
-  - em andamento...
+  > Projetos desenvolvidos com as seguintes tecnologias:
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
+  > Link dos projetos:
+  > [Projeto 15](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto15--stg-06),
   - em andamento...
   <br>
   

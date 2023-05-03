@@ -34,4 +34,4 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto15--stg-06/).
+  Você pode visualizar o projeto através [DESSE LINK](https://spauniverse-seven.vercel.app/).
