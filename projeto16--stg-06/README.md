@@ -1,4 +1,4 @@
-  <h1 align="center"> Explorer Stage 06 | Projeto 16 - SPA Universe </h1>
+  <h1 align="center"> Explorer Stage 06 | Projeto 16 - Github Favorites </h1>
 
   <p align="center">
   Projeto exclusivo do curso Explorer, promovido pela Rocketseat.
