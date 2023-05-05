@@ -34,4 +34,4 @@
 
   ## 🔖 Layout
 
-  Você pode visualizar o projeto através [DESSE LINK](https://felipepleao.github.io/courseProjects-rocketseat/projeto16--stg-06/).
+  Você pode visualizar o projeto através [DESSE LINK](https://gitfav-nu.vercel.app/).
