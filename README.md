@@ -56,6 +56,14 @@
   > Link dos projetos:
   > [Projeto 09](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto09--stg-04)
   <br>
+  ## 🚀 Stage-01-04
+  ### Revisão
+
+  > Projetos desenvolvidos com as seguintes tecnologias:
+    <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
+  > Link dos projetos:
+  > [Projeto 09.1](https://github.com/felipepleao/courseProjects-rocketseat/tree/main/projeto09.1--stg-04)
+  <br>
   
   ## 🚀 Stage-05
   ### Avançando no JavaScript
