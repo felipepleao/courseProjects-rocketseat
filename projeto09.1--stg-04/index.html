@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Explore sem limites</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mulish:wght@600;700;900&family=Roboto+Mono:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="main">
+      <section class="introduction">
+        <div class="container introduction-container">
+          <img class="introduction-img" src="./assets/astronauta.png" alt="Astronauta no espaço" />
+
+          <div class="introduction-container-text">
+            <h1>Explore sem limites</h1>
+            <p>Porque o aprendizado é contínuo</p>
+            <a href="#"
+              ><img src="./assets/seta.svg" alt="seta para baixo"
+            /></a>
+          </div>
+        </div>
+      </section>
+      <section class="planets">
+        <div class="container card-planets">
+          <div class="card">
+            <img src="./assets/planetOne.png" alt="imagem de um planeta" />
+
+            <h1>Não pare nunca</h1>
+
+            <p>
+              Se você deseja ter sucesso nos estudos, é fundamental que você
+              adote uma mentalidade de "não pare nunca". Estudar de forma
+              consistente e contínua é a chave para o progresso e a conquista de
+              seus objetivos.
+            </p>
+          </div>
+          <div class="card card-margin">
+            <img src="./assets/planetTwo.png" alt="imagem de um planeta" />
+
+            <h1>Só volta</h1>
+
+            <p>
+              Se você parou ou perdeu o ritmo em alguma atividade ou projeto,
+              saiba que nunca é tarde para recomeçar. Às vezes, as
+              circunstâncias podem mudar, ou podemos nos sentir desmotivados ou
+              sobrecarregados.
+            </p>
+          </div>
+          <div class="card card-margin">
+            <img src="./assets/planetThree.png" alt="imagem de um planeta" />
+
+            <h1>Siga seu ritmo</h1>
+
+            <p>
+              Avançar pouco a pouco mantém progresso constante em objetivos,
+              evitando parar ou desistir. Mesmo pequenos passos nos aproximam do
+              destino e motivam a continuidade. Não subestime o poder de cada
+              ação rumo ao objetivo final.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <article class="container container-form">
+      <form action="" class="form">
+        <fieldset>
+          <legend>Entre em contato</legend>
+
+          <div class="form-wrapper">
+            <div class="input-wrapper">
+              <label for="nome" class="sr-only">Seu nome</label>
+              <img class="input-icon" src="./assets/perfil.svg" alt="" />
+              <input
+                class="form-input"
+                type="text"
+                id="nome"
+                name="nome"
+                required
+                placeholder="Seu nome"
+              />
+            </div>
+
+            <div class="input-wrapper">
+              <label for="email" class="sr-only">Email</label>
+              <img class="input-icon" src="./assets/email.svg" alt="" />
+              <input
+                class="form-input"
+                type="text"
+                id="email"
+                name="email"
+                required
+                placeholder="Email"
+              />
+            </div>
+
+            <textarea
+              class="form-textarea"
+              name="mensagem"
+              id="mensagem"
+              cols="4"
+              rows="8"
+              placeholder="Digite sua mensagem aqui..."
+            ></textarea>
+
+            <button class="button-form" type="submit">Enviar Mensagem</button>
+          </div>
+        </fieldset>
+      </form>
+    </article>
+
+    <footer class="footer">
+      <p>© 2023 - Felipe Leão</p>
+    </footer>
+  </body>
+</html>
