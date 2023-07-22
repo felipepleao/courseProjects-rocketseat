@@ -27,7 +27,7 @@ export function Details(data, ...rest) {
           <div className="category">
             <span>Ficção Científica</span>
             <span>Drama</span>
-            <span>Família</span>
+            <span>Famíliaa</span>
           </div>
 
           <p>
